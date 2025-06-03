@@ -1,2 +1,2 @@
 # Zero_input_journal
-Based on phone usage patterns, calendar events, and passive input, this model auto-generates your daily journal entry.
+Hi there, my language model auto-generates your daily journals based on your activities, calender events and more.
